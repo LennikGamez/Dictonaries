@@ -1,0 +1,517 @@
+{
+    "abfahren": {
+        "word": "abfahren",
+        "description": "Jugendsprachlicher Ausdruck dafür, dass einem etwas oder jmd. gefällt",
+        "example": "Ick fahr voll uff die ab! "
+    },
+    "abjehalftat": {
+        "word": "abjehalftat",
+        "description": "Begriff für etwas heruntergekommenes",
+        "example": "So ‘ne abjehalftate Bude."
+    },
+    "Ableja": {
+        "word": "Ableja",
+        "description": "Bezeichnung für das eigene Kind",
+        "example": "Dit is meen Ableja."
+    },
+    "Allet in Budda!": {
+        "word": "Allet in Budda!",
+        "description": "Ausdruck dafür, dass alles in Ordnung oder intakt ist",
+        "example": "Na, allet in Butta?"
+    },
+    "Amüsemang": {
+        "word": "Amüsemang",
+        "description": "Ausdruck für eine Erheiterung oder etwas lustiges",
+        "example": "Dit is aba ma’n Amüsemang!"
+    },
+    "anjebm": {
+        "word": "anjebm",
+        "description": "angeben oder protzen",
+        "example": "Der jibt an wie ‘ne Tüte Mücken."
+    },
+    "Atze": {
+        "word": "Atze",
+        "description": "Bezeichnung für eine gut befreundete Person",
+        "example": "Eyh Atze vafatz da!"
+    },
+    "Auwacka": {
+        "word": "Auwacka",
+        "description": "Ausdruck für Verwunderung oder Erstaunen",
+        "example": "Auwacka, dit is n Ding!"
+    },
+    "Äppelkahn": {
+        "word": "Äppelkahn",
+        "description": "Bezeichnung für ein kleines Boot ",
+        "example": "Dit sind ja ‘n paar Äppelkähne."
+    },
+    "Bammel": {
+        "word": "Bammel",
+        "description": "Ausdruck, wenn man sich vor jmd. oder etwas fürchtet",
+        "example": "Ick hab Bammel vor de Prüfung."
+    },
+    "Beene": {
+        "word": "Beene",
+        "description": "Beine",
+        "example": "Ick mach dir jleich Beene!"
+    },
+    "Besuchsbesen": {
+        "word": "Besuchsbesen",
+        "description": "Meint das Geschenk, dass man der Gastgeberin mitbringt, wenn man eingeladen wurde ",
+        "example": "Dit Besuchsbesen is für dir!"
+    },
+    "Bis in de Puppen": {
+        "word": "Bis in de Puppen",
+        "description": "Bezeichnung für einen langen Abend: bis spät in die Nacht",
+        "example": "Wir ham bis in de Puppen geschwoft."
+    },
+    "Boddn": {
+        "word": "Boddn",
+        "description": "Ausdruck für große grobförmige Schuhe oder Stiefel",
+        "example": "Wem seine Boddn sind’n dit?"
+    },
+    "Brubbelkopp": {
+        "word": "Brubbelkopp",
+        "description": "Bezeichnung für jmd., der ununterbrochen spricht",
+        "example": "Blöda Brubbelkopp!"
+    },
+    "Brühpulla": {
+        "word": "Brühpulla",
+        "description": "Meint die typische Bockwurst, serviert mit Senf und etwas Brot",
+        "example": "Jibb ma een Brühpulla!"
+    },
+    "Buchte": {
+        "word": "Buchte",
+        "description": "Bezeichnung für eine kleine Wohnung oder einen kleinen Raum",
+        "example": "Mahn, wat is det ’ne Buchte hier!"
+    },
+    "Bulette": {
+        "word": "Bulette",
+        "description": "Meint einen gebratenen flachen Fleischkloß ",
+        "example": "Ran an de Buletten!"
+    },
+    "Dakannawonniwasein": {
+        "word": "Dakannawonniwasein",
+        "description": "Ausdruck dafür, dass man etwas einfach nicht glauben kann",
+        "example": "Dakannawonniwasein, du Flitzpiepe!"
+    },
+    "Demse": {
+        "word": "Demse",
+        "description": "Begriff für Dunst oder schlechte Luft",
+        "example": "Mahn, is det ‘ne Demse hier!"
+    },
+    "Dit macht Lunte!": {
+        "word": "Dit macht Lunte!",
+        "description": "Ausdruck der Freude: Das macht Spaß!",
+        "example": "Dit macht Lunte, ne?"
+    },
+    "Dit war wieda Neese": {
+        "word": "Dit war wieda Neese",
+        "description": "Das wurde wieder nichts",
+        "example": "Dit Ausfluch war wieda nesse."
+    },
+    "Dit war‘n Hamma": {
+        "word": "Dit war‘n Hamma",
+        "description": "Ausdruck für ein außergewöhnliches Erlebnis: Das war der Hammer!",
+        "example": "Dit war jestern echt’n Hamma!"
+    },
+    "Djibsonich": {
+        "word": "Djibsonich",
+        "description": "Das gibt es doch nicht!",
+        "example": "Djibsonich, schon wieda ne Husche!"
+    },
+    "dufte": {
+        "word": "dufte",
+        "description": "Ausdruck für etwas sehr positives oder angenehmes",
+        "example": "Dit is dufte."
+    },
+    "einrühr‘n": {
+        "word": "einrühr‘n",
+        "description": "Gemeint ist hier: jmd. etwas einbrocken",
+        "example": "Wenn ick nur wüßte, wer uns dit wieda einjerührt hat."
+    },
+    "etepetete": {
+        "word": "etepetete",
+        "description": "Ausdruck für (über-)fein, eingebildet oder versnobbt",
+        "example": "Mahn, wat is dit Tusse etepetete!"
+    },
+    "Fimmel": {
+        "word": "Fimmel",
+        "description": "Ausdruck für Tick oder eine sonderbare Angewohnheit",
+        "example": "Die hat voll n’ Putzfimmel!"
+    },
+    "Fleesch": {
+        "word": "Fleesch",
+        "description": "Fleisch",
+        "example": "Haste auch Fleesch für’n Ausfluch einjepackt?"
+    },
+    "Flitzpiepe": {
+        "word": "Flitzpiepe",
+        "description": "Bezeichnung für eine nicht ernstzunehmende Person",
+        "example": "Du bist vielleicht ‘ne Flitzpiepe!"
+    },
+    "Fressalien": {
+        "word": "Fressalien",
+        "description": "umgangassprachliche Bezeichnung für Esswaren",
+        "example": "Alle Fressalien einjepackt für’n Ausfluch?"
+    },
+    "Fuffi": {
+        "word": "Fuffi",
+        "description": "Kurzform für eine fünfzig Eurobanknote",
+        "example": "Een Fuffi ha ick noch!"
+    },
+    "Funzel": {
+        "word": "Funzel",
+        "description": "Bezeichnung für eine Lichtquelle, welche nur ein schwaches Licht abgibt",
+        "example": "Mahn, mahn, wat ’ne Funzel!"
+    },
+    "futsch": {
+        "word": "futsch",
+        "description": "Salopper Ausdruck, wenn man jmd. verloren oder etwas verlegt hat",
+        "example": "Dit Jeld is futsch."
+    },
+    "Fußhupe": {
+        "word": "Fußhupe",
+        "description": "Umgangssprachlich und salopp für einen kleinen Hund",
+        "example": "Kiek di dit Fußhupe ma an!"
+    },
+    "Glotze": {
+        "word": "Glotze",
+        "description": "Umgangssprachlich für einen Fernsehapparat",
+        "example": "Kommt ma wieda nüscht in de Glotze!"
+    },
+    "Gusche": {
+        "word": "Gusche",
+        "description": "Umgangssprachlich für Mund",
+        "example": "Jetze halt dit Gusche!"
+    },
+    "heckmeck": {
+        "word": "heckmeck",
+        "description": "Durcheinander; aber auch Quatsch oder Unsinn",
+        "example": "Mach keen Heckmeck, eyh!"
+    },
+    "Husche": {
+        "word": "Husche",
+        "description": "Platzregen, kurzer Regenschauer",
+        "example": "Dit gab aba ma ne Husche!"
+    },
+    "ick": {
+        "word": "ick",
+        "description": "1. Person Singular",
+        "example": "Ick bin keen Berliner, aber den Dialekt kann ma sich janz leischt anjewöhnen."
+    },
+    "Is mia wurscht.": {
+        "word": "Is mia wurscht.",
+        "description": "Phrase dafür, dass jmd. etwas egal ist oder unwichtig erscheint",
+        "example": "Fußball is mia wurscht!"
+    },
+    "Jaarten": {
+        "word": "Jaarten",
+        "description": "Garten",
+        "example": "Ick muss jetze erstma in’ne Jaarten!"
+    },
+    "Jejend": {
+        "word": "Jejend",
+        "description": "Gegend",
+        "example": "Mahn, mahn, nüscht als Jejend!"
+    },
+    "Jeseire": {
+        "word": "Jeseire",
+        "description": "Gejammer oder Beschweren",
+        "example": "Mahn, hör uff mit dit Jeseire!"
+    },
+    "jetze": {
+        "word": "jetze",
+        "description": "jetzt",
+        "example": "Kehr, kom jetze!"
+    },
+    "Jlück": {
+        "word": "Jlück",
+        "description": "Glück",
+        "example": "Da haste aba ma Jlück jehabt!"
+    },
+    "Jott-Wee-Dee": {
+        "word": "Jott-Wee-Dee",
+        "description": "Ausdruck für ganz weit draußen, vor der Stadt",
+        "example": "Spandau is jottwede!"
+    },
+    "Jumm": {
+        "word": "Jumm",
+        "description": "Begriff dafür, völlig betrunken sein",
+        "example": "Dit is abba jumm!"
+    },
+    "Juuten Tach": {
+        "word": "Juuten Tach",
+        "description": "Typische Begrüßung, die zu jeder Tageszeit gilt",
+        "example": "Juuten Tach, wie jehts dir?"
+    },
+    "kehna": {
+        "word": "kehna",
+        "description": "keiner",
+        "example": "Dit wees kehna!"
+    },
+    "Kiek mal": {
+        "word": "Kiek mal",
+        "description": "Guck mal oder schau mal",
+        "example": "Kiek dia dat ma an!"
+    },
+    "Klitsche": {
+        "word": "Klitsche",
+        "description": "Meint einen kleinen Ort auf dem Land ",
+        "example": "Wat für ‘ne Klitsche!"
+    },
+    "knorke": {
+        "word": "knorke",
+        "description": "prima, toll, klasse",
+        "example": "Dit find ick knorke!"
+    },
+    "koofen": {
+        "word": "koofen",
+        "description": "kaufen",
+        "example": "Ick muss ooch noch enkoofen."
+    },
+    "kriejen": {
+        "word": "kriejen",
+        "description": "bekommen",
+        "example": "Für dit Glotze kriejste nesse!"
+    },
+    "Letze": {
+        "word": "Letze",
+        "description": "Ausdruck für eine Idee oder einen Geistesblitz",
+        "example": "Ick ha ne’ Letze!"
+    },
+    "liebensjewürzich": {
+        "word": "liebensjewürzich",
+        "description": "liebenswürdig",
+        "example": "Dit is aba liebensjewürzich von Ihn’n!"
+    },
+    "Lulatsch": {
+        "word": "Lulatsch",
+        "description": "Bezeichnet einen großgewachsenen dünnen Mann",
+        "example": "Dit is aba ma’n Lulatsch!"
+    },
+    "Mattscheibe": {
+        "word": "Mattscheibe",
+        "description": "Bezeichnung für Fernseher",
+        "example": "Für dit Mattscheibe ha ick nen Fuffi jejebn. "
+    },
+    "Mecke": {
+        "word": "Mecke",
+        "description": "Frisur",
+        "example": "Siehste noch wat bei der Mecke?"
+    },
+    "meena": {
+        "word": "meena",
+        "description": "meiner",
+        "example": "Dit is meen Piepel."
+    },
+    "Mia jeht‘s juut": {
+        "word": "Mia jeht‘s juut",
+        "description": "Mir geht es gut",
+        "example": "Mia jeht’s juut wie imma!"
+    },
+    "Mief": {
+        "word": "Mief",
+        "description": "Bezeichnung für Gestank oder schlechte Luft",
+        "example": "Wat für’n Mief!"
+    },
+    "mittenmang": {
+        "word": "mittenmang",
+        "description": "mittendrin",
+        "example": "In Berlin biste mittenmang."
+    },
+    "Muckefuck": {
+        "word": "Muckefuck",
+        "description": "Bezeichnung für Malz-Kaffee oder verdünnten Kaffee",
+        "example": "Dit Muckefuck is pyramidabel."
+    },
+    "Mustopp": {
+        "word": "Mustopp",
+        "description": "jmd. der langsam oder schwer von Begriff ist",
+        "example": "Du kommst voll aus’n Mustopp!"
+    },
+    "Mutta": {
+        "word": "Mutta",
+        "description": "Mutter",
+        "example": "Meene Mudda is einfach de Beste!"
+    },
+    "ne": {
+        "word": "ne",
+        "description": "Ausdruck für \"nicht wahr?\"; wird häufig ans Satzende gehangen",
+        "example": "Dit is n’ Knaller, ne?"
+    },
+    "Nieselpriem": {
+        "word": "Nieselpriem",
+        "description": "Ausdruck für einen langweiligen, schlechtgelaunten Menschen",
+        "example": "Na du oller Nieselpriem, bist ja heute nich jrade jesprächich, wa?"
+    },
+    "Omme": {
+        "word": "Omme",
+        "description": "umgangs- und jugendsprachlich für Kopf",
+        "example": "Dit Bimse ging voll uff meene Omme!"
+    },
+    "Oogen": {
+        "word": "Oogen",
+        "description": "Augen",
+        "example": "Haste auch Oogen in ’ne Omme?"
+    },
+    "Penunse": {
+        "word": "Penunse",
+        "description": "Umgangssprachlich für Geld",
+        "example": "Haste ne bisgen Penunse für mir?"
+    },
+    "Piepel": {
+        "word": "Piepel",
+        "description": "Umgangssprachlich Kind",
+        "example": "Damals als kleene Piepels ham wa..."
+    },
+    "Pillepalle": {
+        "word": "Pillepalle",
+        "description": "Kleinkram, Unwichtiges",
+        "example": "Dit is pillepalle!"
+    },
+    "pladdern": {
+        "word": "pladdern",
+        "description": "Gemeint ist hier ein starker Platzregen oder Regenschauer",
+        "example": "Dit hat jestern gepladdert..."
+    },
+    "puckeln": {
+        "word": "puckeln",
+        "description": "schwer/Schweres tragen, auch \"abpuckeln\"",
+        "example": "Hör uff dir so abzupuckeln!"
+    },
+    "pyramidabel": {
+        "word": "pyramidabel",
+        "description": "großartig/sensationell",
+        "example": "Dit is pyramidabel!"
+    },
+    "Rabatz": {
+        "word": "Rabatz",
+        "description": "Ausdruck für Krach oder Lärm",
+        "example": "Mahn, mach ma hier nich soon Rabatz!"
+    },
+    "Ratzefummel": {
+        "word": "Ratzefummel",
+        "description": "Radiergummi",
+        "example": "Haste ma’n Ratzelfummel für mir?"
+    },
+    "reene": {
+        "word": "reene",
+        "description": "reine",
+        "example": "Du vastehst ooch reen jarnüscht!"
+    },
+    "Rejenschürm": {
+        "word": "Rejenschürm",
+        "description": "Regenschirm",
+        "example": "Dit is meen Rejenschürm!"
+    },
+    "rin": {
+        "word": "rin",
+        "description": "Umgangssprachlich für herein oder hinein",
+        "example": "Kommse rin, könnse rauskieken!"
+    },
+    "ruff": {
+        "word": "ruff",
+        "description": "Umgangssprachlich für herauf oder hinauf",
+        "example": "Komm ma ruff!"
+    },
+    "sajen": {
+        "word": "sajen",
+        "description": "sagen",
+        "example": "Kannste ooch ma wat sajen?"
+    },
+    "schindaan": {
+        "word": "schindaan",
+        "description": "Ausdruck für schwer/hart arbeiten",
+        "example": "Morjen wieda schindaan jehn."
+    },
+    "schmulen": {
+        "word": "schmulen",
+        "description": "Begriff für heimlich abgucken, z.B. in einer Arbeit",
+        "example": "Hör uff zu schmulen!"
+    },
+    "schnabulieren": {
+        "word": "schnabulieren",
+        "description": "etwas genüsslich essen/verzehren, meist mit Freunden",
+        "example": "Ick hab jestern mit meen Atze schnabuliert."
+    },
+    "schniecke": {
+        "word": "schniecke",
+        "description": "Bezeichnung für hübsch oder schick",
+        "example": "Dit is echt schniecke!"
+    },
+    "Schrippe": {
+        "word": "Schrippe",
+        "description": "Begriff für Brötchen, wird in Berlin häufig als Beilage zur Bockwurts serviert",
+        "example": "Jibb ma een Brühpulla mit Schrippe!"
+    },
+    "socken": {
+        "word": "socken",
+        "description": "Umgangssprachlich für rennen",
+        "example": "Ick mach mir uff die Sockken."
+    },
+    "spack": {
+        "word": "spack",
+        "description": "Meint eine dünne/schmächtige Person",
+        "example": "Wat is dit Lulatsch spack!"
+    },
+    "Stullnbrett": {
+        "word": "Stullnbrett",
+        "description": "Smartphone/Tablet",
+        "example": "Haste ooch son Stullenbrett?"
+    },
+    "tuckeln": {
+        "word": "tuckeln",
+        "description": "Sich langsam irgendwohin bewegen",
+        "example": "Mahn, wat tuckert der so?"
+    },
+    "uffmucken": {
+        "word": "uffmucken",
+        "description": "Umgangssprachlich für Ärger machen oder gegen etwas Widerstand leisten",
+        "example": "Waach dir jarnich uffzumucken!"
+    },
+    "vajessen": {
+        "word": "vajessen",
+        "description": "vergessen",
+        "example": "Dit ha ick vajessen."
+    },
+    "vajisset!": {
+        "word": "vajisset!",
+        "description": "Vergiss es!",
+        "example": "Vajisset, die is ’ne blöde Tusse!"
+    },
+    "vakoddert": {
+        "word": "vakoddert",
+        "description": "Ausdruck für etwas oder jmd., der/das heruntergekommen oder ungewaschen ist",
+        "example": "Mahn, is dit Buchte vakoddert!"
+    },
+    "verklickern": {
+        "word": "verklickern",
+        "description": "Jmd. etwas erklären oder auch beichten",
+        "example": "Wat willste mia jetze verklickern?"
+    },
+    "ville": {
+        "word": "ville",
+        "description": "Ausdruck für eine große Menge",
+        "example": "Ick will ville mehr."
+    },
+    "Wa": {
+        "word": "Wa",
+        "description": "Typische Floskel, die häufig ans Satzende gehangen wird, um Bestätigung zu erlangen (Nicht wahr?)",
+        "example": "Is aba warm heute, wa?"
+    },
+    "Waschtach": {
+        "word": "Waschtach",
+        "description": "Bezeichnung dafür, wenn man einen Tag \"blau macht\" oder krank feiert",
+        "example": "Ick hatte jestern Waschtach."
+    },
+    "Weeste": {
+        "word": "Weeste",
+        "description": "Frage, die häufig an das Satzende gehangen wird, um sich zu vergewissern, ob der Gegenüber einen versteht",
+        "example": "Der hat ville jelabert, wesste?"
+    },
+    "wuschich": {
+        "word": "wuschich",
+        "description": "Ausdruck dafür, wenn jmd. verwirrt, aber auch ungekämmt ist",
+        "example": "Mensch mach ma nich wuschig!"
+    }
+}

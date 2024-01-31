@@ -1,0 +1,457 @@
+{
+    "Aabee": {
+        "word": "Aabee",
+        "description": "Toilette oder WC",
+        "example": "„Wammer dem Geruch noogeht, kimmt mer uff kaan Aabee.“"
+    },
+    "Aaweid": {
+        "word": "Aaweid",
+        "description": "Arbeit",
+        "example": "„Der wo die Aaweid erfunne hot, muss nix zu duun gehabbd hawwe.“"
+    },
+    "aijereggisch": {
+        "word": "aijereggisch",
+        "description": "oval, eiförmig",
+        "example": "„Min Fußball spiel isch nedd, der is joh goanz aijereggisch.“"
+    },
+    "Aschebescher": {
+        "word": "Aschebescher",
+        "description": "Aschenbecher",
+        "example": "„Du muschd mol ubedingt werrer de Aschebescher ausleere.“"
+    },
+    "Äppelwoi": {
+        "word": "Äppelwoi",
+        "description": "Apfelwein; Alkoholische Spezialität in Hessen",
+        "example": "„De Äppelwoi is famos, dem aahne geht er in de Kopp, dem annern in die Hos.“"
+    },
+    "Babba": {
+        "word": "Babba",
+        "description": "Papa",
+        "example": "„De Babba is oafach de Beschde.“"
+    },
+    "babbele": {
+        "word": "babbele",
+        "description": "erzählen, sprechen, labern",
+        "example": "„Du bischd schuun die goanze Zeit am babbele. Koannschde nedd aa mol de Schnuud hoalde?“"
+    },
+    "Bahnhofsviertel": {
+        "word": "Bahnhofsviertel",
+        "description": "Berüchtigtes Viertel im Umkreis des Frankfurter Bahnhofs ",
+        "example": "„Des Bahnhofsviertel gehört zu Froangfort, wie die Reeperbahn zu Hamburg.“"
+    },
+    "beleidischd Lebberworscht": {
+        "word": "beleidischd Lebberworscht",
+        "description": "Beleidigte Leberwurst; spöttischer Ausdruck für eine empfindliche Person",
+        "example": "„Jetz speel do awwer nedd die beleidischd Lebberworscht!“"
+    },
+    "Bembel": {
+        "word": "Bembel",
+        "description": "typisch dickbauchiger Krug; traditionell als Behältnis für Apfelwein ",
+        "example": "„Denn Bembel habb isch vunn meiner Grousmudder geerbt.“"
+    },
+    "Blechkopp": {
+        "word": "Blechkopp",
+        "description": "Sturkopf; Bezeichnung für einen uneinsichtigen Menschen",
+        "example": "„Du oalder Blechkopp muschd aa ständisch uff dein Rescht beschdehe!“"
+    },
+    "Blümmelscher": {
+        "word": "Blümmelscher",
+        "description": "kleiner Blumenstrauß",
+        "example": "„De Blümmelscher wär awwer escht nedd näirisch gewese.“"
+    },
+    "Bobbelsche": {
+        "word": "Bobbelsche",
+        "description": "Baby oder Kleinkind",
+        "example": "„Guggemol, is des Bobbelsche nedd sies?“"
+    },
+    "Buxe": {
+        "word": "Buxe",
+        "description": "Hose",
+        "example": "„Moi Buxe is zu eng, isch brauche dringend a Naie.“"
+    },
+    "Dabbes": {
+        "word": "Dabbes",
+        "description": "Tollpatsch; Ausdruck für eine trottelige Person ",
+        "example": "„Isch bin awwer aa allsemol ein Dabbes!“"
+    },
+    "dadegeesche": {
+        "word": "dadegeesche",
+        "description": "dagegen",
+        "example": "„Isch bin dadegeesche!“"
+    },
+    "Deetz": {
+        "word": "Deetz",
+        "description": "Kopf",
+        "example": "„Geschdern häbb isch mer voll de Deetz gestoße.“"
+    },
+    "Der Käs iss gesse": {
+        "word": "Der Käs iss gesse",
+        "description": "bildhafter Ausdruck für einen Zustand, der sich erledigt hat: Das hat sich erledigt ",
+        "example": "„Des war's, der Käs iss gesse.“"
+    },
+    "desdeweesche": {
+        "word": "desdeweesche",
+        "description": "deswegen",
+        "example": "„Unn desdeweesche häbb isch heit sou schleschte Laune. “"
+    },
+    "disbediern": {
+        "word": "disbediern",
+        "description": "diskutieren",
+        "example": "„Isch häbb jetz echt koa Luschd mid dehr do zu disbediern.“"
+    },
+    "Dregwatz": {
+        "word": "Dregwatz",
+        "description": "Dreckspatz; Bezeichnung für eine schmutzige Person",
+        "example": "„Der Manni is escht souen rischdischer Dregwatz.“"
+    },
+    "dribbe": {
+        "word": "dribbe",
+        "description": "drüben",
+        "example": "„Uns is de Ball noach dribbe zum Nochborn gefloge.“"
+    },
+    "druff": {
+        "word": "druff",
+        "description": "drauf oder darüber",
+        "example": "„Awwer druff damit!“"
+    },
+    "Dutt": {
+        "word": "Dutt",
+        "description": "Tüte",
+        "example": "„Kennese mer mid de schwere Dutts helfe?“"
+    },
+    "e bissi": {
+        "word": "e bissi",
+        "description": "ein bisschen",
+        "example": "„Des is grod alles e bissi veel für misch uff emol.“"
+    },
+    "Ei guude wie?": {
+        "word": "Ei guude wie?",
+        "description": "Typische Begrüßung in Hessen: Guten Tag, wie geht es dir?",
+        "example": "„Ei guude wie? - Frach misch net.“"
+    },
+    "Eihorrschemaa!": {
+        "word": "Eihorrschemaa!",
+        "description": "Drohung: Jetzt hören Sie mal zu!",
+        "example": "„Eihorrschemaa, isch glaub's ned!“"
+    },
+    "Erbsezähler": {
+        "word": "Erbsezähler",
+        "description": "Erbsenzähler; spöttisch für eine sparsame Person",
+        "example": "„Du bischd allsemol souen rischdischer Erbsezähler.“"
+    },
+    "eweggbuzze": {
+        "word": "eweggbuzze",
+        "description": "alles aufessen",
+        "example": "„Woann moi Grousmudder kocht, is alle mer nix dir nix eweggbuzz.“"
+    },
+    "ferdisch": {
+        "word": "ferdisch",
+        "description": "fertig",
+        "example": "„Isch bin fix unn ferdisch für heit.“"
+    },
+    "frach misch net": {
+        "word": "frach misch net",
+        "description": "Ausdruck dafür, dass es einem gut geht",
+        "example": "„Guude, wie? - Frach mich net.“"
+    },
+    "fuddele": {
+        "word": "fuddele",
+        "description": "ungenau arbeiten",
+        "example": "„Doa muschde beim neegschde Mol genaa schaffe unn nedd sou rumfuddele.“"
+    },
+    "Gedeens": {
+        "word": "Gedeens",
+        "description": "Gehabe oder Aufwand",
+        "example": "„Mein Godd, is des en Gedeens!“"
+    },
+    "gehoppt wie gedoppt": {
+        "word": "gehoppt wie gedoppt",
+        "description": "Ausdruck dafür, dass alles das Gleiche ist",
+        "example": "„Des is doch alles gehoppt wie gedoppt.“"
+    },
+    "Geknoddel": {
+        "word": "Geknoddel",
+        "description": "undurchschaubares Geknäule",
+        "example": "„Woas is des denn für ein Geknoddel?“"
+    },
+    "Gelle?": {
+        "word": "Gelle?",
+        "description": "Anhängsel, welches gerne zur Bestätigung an das Satzende gehangen wird: Nicht wahr?",
+        "example": "„Woas für e subber Wedder heit, gelle?“"
+    },
+    "Gemorje!": {
+        "word": "Gemorje!",
+        "description": "Guten Morgen!",
+        "example": "„Gemorje, hoaschde gud gepennt?“"
+    },
+    "Gerippte": {
+        "word": "Gerippte",
+        "description": "meint sowohl ein typisches Apfelweinglas, als auch den Westhafen Tower in Frankfurt a.M.",
+        "example": "„Mer nemme zwaa Gerippte.“"
+    },
+    "Grie Soß": {
+        "word": "Grie Soß",
+        "description": "kalte Kräutersauce; Spezialität aus Franktfurt a.M.",
+        "example": "„De Grie Soß muschde ubedingt brobiern. Des is e eschte Spezialität.“"
+    },
+    "Guggelscher": {
+        "word": "Guggelscher",
+        "description": "Augen",
+        "example": "„Jetz gugg mid dein Guggelscher awwer mol genaa hie.“"
+    },
+    "Guude!": {
+        "word": "Guude!",
+        "description": "Typische Begrüßung in Hessen; Guten Tag!",
+        "example": "„Ei Guude, wie?“"
+    },
+    "Guutsje": {
+        "word": "Guutsje",
+        "description": "Bonbon",
+        "example": "„De Guutsje mid der Füllung sinn de Beschde.“"
+    },
+    "Haldemo dei Sabbel!": {
+        "word": "Haldemo dei Sabbel!",
+        "description": "Sei still!",
+        "example": "„Jetz haldemol dei Sabbel, oalder Blechkopp!“"
+    },
+    "Hammersbald?": {
+        "word": "Hammersbald?",
+        "description": "Ausdruck der Ungeduld: Haben wir es bald?",
+        "example": "„Hammersbald? Isch hebb koa Zeit.“"
+    },
+    "hibbelisch": {
+        "word": "hibbelisch",
+        "description": "hibbelig oder nervös",
+        "example": "„Jetz sei doch nedd sou hibbelisch.“"
+    },
+    "hocke": {
+        "word": "hocke",
+        "description": "hocken; meint in diesem Fall sitzen",
+        "example": "„Hock disch zu mer. Willschde woas petze?“"
+    },
+    "hogge": {
+        "word": "hogge",
+        "description": "sitzen oder sich befinden",
+        "example": "„Ei da hogge ja die, die wo immer da hogge.“"
+    },
+    "Hutsimbel": {
+        "word": "Hutsimbel",
+        "description": "Beliebtes Schimpfwort im Straßenverkehr: lahme Ente",
+        "example": "„Jetz fahr doch du Hutsimbel!“"
+    },
+    "Hä?": {
+        "word": "Hä?",
+        "description": "Wie bitte?",
+        "example": "„Hä? Koannschde des noch emol wiederhole?“"
+    },
+    "Hätschelbiebche": {
+        "word": "Hätschelbiebche",
+        "description": "Muttersöhnchen",
+        "example": "„Du bischd allsemol escht e klaanes Hätschelbiebche.“"
+    },
+    "Häusje": {
+        "word": "Häusje",
+        "description": "kleines, gemütliches Haus",
+        "example": "„Mein klaanes Häusje is mein goanzer Stolz.“"
+    },
+    "Isch mach weida.": {
+        "word": "Isch mach weida.",
+        "description": "Auf Wierdersehen",
+        "example": "„Isch mach weida. Mer seje uns morje.“"
+    },
+    "iwwerzwerch": {
+        "word": "iwwerzwerch",
+        "description": "übermütig, übereilt handeln",
+        "example": "„Bleib ruisch. Du hoaschd nix devuu, wannde iwwerzwerch wirschd.“"
+    },
+    "Jesses naa!": {
+        "word": "Jesses naa!",
+        "description": "Ausruf aus Verwunderung oder Angst: Oh Gott",
+        "example": "„Jesses naa! Hör uff misch sou zu erschrecke!“"
+    },
+    "Kaff": {
+        "word": "Kaff",
+        "description": "Bezeichnung für ein Dorf (nicht abwertend)",
+        "example": "„Des Lewe inem Kaff is veel entspannter als inde Stadt.“"
+    },
+    "Kamelle": {
+        "word": "Kamelle",
+        "description": "alte Geschichten",
+        "example": "„Mein Grousvadder, der kannte spoannende Kamelle.“"
+    },
+    "klaa": {
+        "word": "klaa",
+        "description": "klein",
+        "example": "„Guggemol, des Bobbelsche is awwer noch klaa.“"
+    },
+    "Knaadsch": {
+        "word": "Knaadsch",
+        "description": "Matsch; je nach Zusammenhang aber auch Streitigkeiten",
+        "example": "„Der Max unn der Frank hewwe schunn seit oaner Woch Knaadsch.“"
+    },
+    "Kneipsche": {
+        "word": "Kneipsche",
+        "description": "kleines Schälmesser",
+        "example": "„Wu hoaschde schunn werrer de Kneipsche hiegelejd?“"
+    },
+    "krumbelisch": {
+        "word": "krumbelisch",
+        "description": "zerknittert, zusammengeknüllt",
+        "example": "„De Brief is joh goanz krumbelisch.“"
+    },
+    "Lebbe geht weider": {
+        "word": "Lebbe geht weider",
+        "description": "im Sommer 1992 anläßlich des dunkelsten Moments hessischer Fußballgeschichte geprägter Ausspruch",
+        "example": "„Worschd woas dir passiert, des Lebbe geht weider.“"
+    },
+    "lebbern": {
+        "word": "lebbern",
+        "description": "trinken",
+        "example": "„Mer misse demnächst aa noch mol en zamme lebbern.“"
+    },
+    "Linksdatsch": {
+        "word": "Linksdatsch",
+        "description": "Linkshänder",
+        "example": "„Mid meiner linken Hand koann isch iwwerhaupt nix mache. Oam Linksdatsch gejds mid reschts wahrscheinlisch genaaso.“"
+    },
+    "luurn": {
+        "word": "luurn",
+        "description": "hinschauen",
+        "example": "„Nu luur doch mol hie!“"
+    },
+    "Maabrigg": {
+        "word": "Maabrigg",
+        "description": "Brücke über den Main",
+        "example": "„Der Eiserne Steg is oani vun de bekannstesten Maabriggs en Froangfort.“"
+    },
+    "mobbelisch": {
+        "word": "mobbelisch",
+        "description": "moppelig, dick",
+        "example": "„Der Maddin hot ebbes zugenomme. Der wirkt e bissi mobbelisch.“"
+    },
+    "momendemal": {
+        "word": "momendemal",
+        "description": "einen Moment mal",
+        "example": "„Momendemal, des habb isch nedd goanz verstoanne. Kenne mer des nochemol wiederhole?“"
+    },
+    "Nit vergesse!": {
+        "word": "Nit vergesse!",
+        "description": "Nicht vergessen!",
+        "example": "„Nit vergesse, mim Kojder rauszudabbe.“"
+    },
+    "Peiffedeggel!": {
+        "word": "Peiffedeggel!",
+        "description": "Denkste!; oder: Das war wohl nichts!",
+        "example": "„Du hoaschd wohl gedenkt, isch deed verliere. Peiffedeggel!“"
+    },
+    "plärre": {
+        "word": "plärre",
+        "description": "falsch singen, schreien",
+        "example": "„Hör uff zu plärre! Des hört sisch joh furschtbar an.“"
+    },
+    "Riwwelkuche": {
+        "word": "Riwwelkuche",
+        "description": "Streuselkuchen",
+        "example": "„De Riwwelkuche vunn meiner Mudder muschde ubedingt brobiern.“"
+    },
+    "schee": {
+        "word": "schee",
+        "description": "schön",
+        "example": "„Des is awwer e schee Sach!“"
+    },
+    "schlambabelisch": {
+        "word": "schlambabelisch",
+        "description": "unordentlich",
+        "example": "„Der Timo is als schlambabelisch. Isch muss dem ständisch alles hinnerherdrache.“"
+    },
+    "schnalle": {
+        "word": "schnalle",
+        "description": "verstehen, kapieren, begreifen",
+        "example": "„Du schnallest mol werrer aa gar nix.“"
+    },
+    "Schnuggelsche": {
+        "word": "Schnuggelsche",
+        "description": "etw. Süßes zu naschen; auch Kosename für den/die Liebste/n",
+        "example": "„Wu hoaschde dein Schnuggelsche gelasse?“"
+    },
+    "Schnuud": {
+        "word": "Schnuud",
+        "description": "Mund (nicht abwertend)",
+        "example": "„Halt die Schnuud!“"
+    },
+    "Schobber": {
+        "word": "Schobber",
+        "description": "Einkaufstasche",
+        "example": "„Zu Woinoachte winsch isch mer a naie Schobber. Moi Oalde is schunn goanz ausgeleiert.“"
+    },
+    "schwanger Lersch": {
+        "word": "schwanger Lersch",
+        "description": "Spöttischer Ausdruck für einen übergewichtigen Menschen",
+        "example": "„Der schwanger Lersch doa sollt mol nedd sou veel Zuggerschneggsche esse.“"
+    },
+    "Simbel": {
+        "word": "Simbel",
+        "description": "Einfallspinsel oder Idiot",
+        "example": "„Ei, pass uff, Simbel!“"
+    },
+    "Spinatwachtel": {
+        "word": "Spinatwachtel",
+        "description": "Beleidung für eine ungepflegt aussehende Frau  ",
+        "example": "„Jetz horschemol zu, du oalde Spinatwachtel!“"
+    },
+    "Stinkstivvel": {
+        "word": "Stinkstivvel",
+        "description": "spöttische Bezeichnung für eine unerträgliche Person",
+        "example": "„De Matthias is seit neustem en rischdische Stinstivvel.“"
+    },
+    "Tranfunzel": {
+        "word": "Tranfunzel",
+        "description": "Ausdruck für eine lahme und unmotivierte Person",
+        "example": "„Jetz sei doch nedd sou e Tranfunzel unn gej endlisch weider.“"
+    },
+    "Trottwaa": {
+        "word": "Trottwaa",
+        "description": "Bügersteig",
+        "example": "„Maddin, uffde Schossee is 's arig gefährlisch. Desdeweesche bleibst du aa uffem Trottwaa. “"
+    },
+    "uffgeblase": {
+        "word": "uffgeblase",
+        "description": "aufgeblasen; meint in diesem Fall eingebildet",
+        "example": "„Der Hans is awwer aa en uffgeblasene Kerl.“"
+    },
+    "uffmugge": {
+        "word": "uffmugge",
+        "description": "aufsässig werden; sich aktiv gegen etw./jmd. zur Wehr setzen",
+        "example": "„'S wird Zeit des mer endlisch mol sou rischdisch uffmugge.“"
+    },
+    "waasch": {
+        "word": "waasch",
+        "description": "weich",
+        "example": "„Des ist des perfekte Weck: auße schee knusprisch unn inne goanz waasch.“"
+    },
+    "Weck": {
+        "word": "Weck",
+        "description": "Brötchen",
+        "example": "„Die Weck schmegge oam beschde, woannse noch haas sinn.“"
+    },
+    "Wie e Ochs wenn’s donnert": {
+        "word": "Wie e Ochs wenn’s donnert",
+        "description": "Ausdruck für jmd. der etwas verdutzt/verwirrt reinschaut",
+        "example": "„Der Fritzel guggt wie e Ochs wenn's donnert.“"
+    },
+    "Wutz": {
+        "word": "Wutz",
+        "description": "Schwein",
+        "example": "„Du benimmst disch allsemol wahrhaftisch wie en Wutz! “"
+    },
+    "zaggisch": {
+        "word": "zaggisch",
+        "description": "schnell, flott, zügig",
+        "example": "„Jetz awwer zaggisch. Isch will hoam.“"
+    },
+    "Zuggerschneggsche": {
+        "word": "Zuggerschneggsche",
+        "description": "ringelförmiges Zuckergebäck",
+        "example": "„Zuggerschneggsche sinn mein liebschder Nachdisch.“"
+    }
+}

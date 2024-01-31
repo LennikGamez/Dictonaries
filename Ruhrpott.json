@@ -1,0 +1,587 @@
+{
+    "abpillern": {
+        "word": "abpillern",
+        "description": "In der Schule beim Nebenmann aufs Heft schauen und versuchen abzuschreiben",
+        "example": "„Ker Jürgen, jetz hör doch mal auf bei mir abzupillern!“"
+    },
+    "Appelkitsche": {
+        "word": "Appelkitsche",
+        "description": "Apfelreste; auch eine spöttische Bezeichnung für ein altes Auto",
+        "example": "„Dat Appelkitsche ess ich nich.“"
+    },
+    "Bedrullje": {
+        "word": "Bedrullje",
+        "description": "Nöte",
+        "example": "„Da steckse aba mal richtig in de Bedrullje.“"
+    },
+    "bedröppelt": {
+        "word": "bedröppelt",
+        "description": "Ausdruck für traurig oder enttäuscht",
+        "example": "„Ach Mäusken wat guckst denn so bedröppelt?“"
+    },
+    "Bermuda3eck": {
+        "word": "Bermuda3eck",
+        "description": "Areal in Bochum mit einer hohen Dichte von gastronomischen Betrieben",
+        "example": "„Et haben sich schon einige Leute im Bermuda3eck verlaufen.“"
+    },
+    "betuppen": {
+        "word": "betuppen",
+        "description": "umgangssprachlich für betrügen oder übers Ohr hauen",
+        "example": "„Gestern inna Trinkhalle hat man mich janz schön betuppt.“"
+    },
+    "beömmeln": {
+        "word": "beömmeln",
+        "description": "über etwas amüsieren oder lachen",
+        "example": "„Ich könnt mich beömmeln.“"
+    },
+    "Blagen": {
+        "word": "Blagen",
+        "description": "umgangssprachlich (nicht abwertend) für Kinder",
+        "example": "„Euer Blagens machn nuua Fiesematenten.“"
+    },
+    "brotscheln": {
+        "word": "brotscheln",
+        "description": "Ausdruck für wenig Erfolg beim Kochen ",
+        "example": "„Getz hasse hier aber was gebrotschelt…kannse donnich essen“"
+    },
+    "bräsich": {
+        "word": "bräsich",
+        "description": "ungehalten oder verärgert; heißt aber auch angetrunken",
+        "example": "„Ker, wat bin ich bräsich.“"
+    },
+    "bölken": {
+        "word": "bölken",
+        "description": "laut anschreien",
+        "example": "„Mannometer, hör auf so zu bölken, du Jäuster!“"
+    },
+    "Bömsken": {
+        "word": "Bömsken",
+        "description": "Bonbon",
+        "example": "„Gib ma her dat Bömsken.“"
+    },
+    "bötschen": {
+        "word": "bötschen",
+        "description": "Fußball spielen",
+        "example": "„Getz lass die Döppken doch bötschen, hömma.“"
+    },
+    "Bütterken": {
+        "word": "Bütterken",
+        "description": "Butterbrot",
+        "example": "„Aufa Maloche ess ich stets ein paar Bütterken.“"
+    },
+    "Da weisste, wo der Frosch die Locken hat!": {
+        "word": "Da weisste, wo der Frosch die Locken hat!",
+        "description": "Da weisst du Bescheid!",
+        "example": "„Hömma, du weisst ja gar nich wo der Frosch die Locken hat. Ich zeich dir mal wie dat geht.“"
+    },
+    "Dingens": {
+        "word": "Dingens",
+        "description": "Ersatzbegriff für ein Wort, dass einem im Moment nicht einfällt; Allzweckbegriff",
+        "example": "„Samma, hast du heute schon Dingens angerufen?“"
+    },
+    "Donnerlüttchen": {
+        "word": "Donnerlüttchen",
+        "description": "Ausruf des Erstaunens",
+        "example": "„Donnerlüttchen, dat hab ich nicht erwartet.“"
+    },
+    "dröppelich": {
+        "word": "dröppelich",
+        "description": "Ausdruck für einen leichten Regnen oder tröpfeln",
+        "example": "„Heut Mittach war es am dröppeln dranne.“"
+    },
+    "Dubbel": {
+        "word": "Dubbel",
+        "description": "Butterbrot",
+        "example": "„Ette, kannste mir mein Dubbel auffe Maloche bringen, habs verbaselt.“"
+    },
+    "durchfrickeln": {
+        "word": "durchfrickeln",
+        "description": "durchschlagen",
+        "example": "„Walla hat sich da ganz schön durchgefrickelt.“"
+    },
+    "Dusseldier": {
+        "word": "Dusseldier",
+        "description": "Beleidigung; beduetet soviel wie \"dumme Person\"",
+        "example": "„Cymczyks Erna is vielleicht n Dusseldier, hat se ihre Pampuschen verjesse.“"
+    },
+    "Döneken": {
+        "word": "Döneken",
+        "description": "Bezeichnung für lustige Geschichten oder Äußerungen",
+        "example": "„Unsa Oppa hat gestan wieda lauter Dönekes erzählt.“"
+    },
+    "Ette": {
+        "word": "Ette",
+        "description": "Kosebezeichnung für Frauen oder Mädchen",
+        "example": "„Ette hier geht gern spaziern.“"
+    },
+    "Eumel": {
+        "word": "Eumel",
+        "description": "Bezeichnung für einen netten oder liebenswürdigen Trottel",
+        "example": "„Du bis mir auchn Eumel.“"
+    },
+    "feckeln": {
+        "word": "feckeln",
+        "description": "rennen oder schnell laufen",
+        "example": "„Kumma, wie die Blagens am feckeln sind.“"
+    },
+    "Fiesematenten/Fissematenten": {
+        "word": "Fiesematenten/Fissematenten",
+        "description": "Begriff für Unsinn",
+        "example": "Sach ich: “Ker, mach mir keine Fiesematenten.“"
+    },
+    "Firlefanz": {
+        "word": "Firlefanz",
+        "description": "Begriff für albernes Gehabe oder auch unnötige Dinge",
+        "example": "„Getz mach kein Firlefanz.“"
+    },
+    "Fissel": {
+        "word": "Fissel",
+        "description": "Bezeichnung für Fussel oder kleine Stoffreste  ",
+        "example": "„Hömma die Fissel aufm Teppich machen mich noch wahnsinnig.”"
+    },
+    "Fitzelken": {
+        "word": "Fitzelken",
+        "description": "ein Bisschen",
+        "example": "„Im Essen is n' Fitzelken zu viel Salz.“"
+    },
+    "Fizzebohnen": {
+        "word": "Fizzebohnen",
+        "description": "Ausdruck für grüne Gartenbohnen; auch bekannt als Saure Bohnen",
+        "example": "„Gestan Mittach gab es bei uns Fizzebohnen.“"
+    },
+    "flitschich": {
+        "word": "flitschich",
+        "description": "glitschig, ungreifbar, aufgequollen",
+        "example": "„Dat wa so richtich flitschig, is mir einfach durche Griffel gequillt.“"
+    },
+    "Fummel": {
+        "word": "Fummel",
+        "description": "Bezeichnung für leichte Kleidung, die allerdings oft billig erscheint",
+        "example": "„Die Bine hatte abba auch nen Fummel an…“"
+    },
+    "Furzknoten": {
+        "word": "Furzknoten",
+        "description": "Ausdruck für ein kleines Kind; meint auch eine kleinwüchsige Person",
+        "example": "„Du bis abba auch nen Furzknoten.“"
+    },
+    "Föttken": {
+        "word": "Föttken",
+        "description": "umgangssprachlich für Hintern oder Popo",
+        "example": "„Hömma, gleich hat dein Föten Kirmes!“"
+    },
+    "Glück auf": {
+        "word": "Glück auf",
+        "description": "Bergmannsgruß; wird heute noch gerne als allgemeine Begrüßung im Ruhrgebiet verwendet",
+        "example": "„Glück auf, der Steiger kommt!“"
+    },
+    "Heiopei": {
+        "word": "Heiopei",
+        "description": "Begriff für unzuverlässige, sprunghafte Person",
+        "example": "„Der Günnah is n echter Heiopei.“"
+    },
+    "hintapern": {
+        "word": "hintapern",
+        "description": "Begriff für schleichen oder vorsichtig gehen",
+        "example": "„Jeden Abend tapert die Olle durchn Konsum.“"
+    },
+    "Hippe": {
+        "word": "Hippe",
+        "description": "Bezeichnung für ein großes, dünnes Mädchen",
+        "example": "„Sonne Hippe wie du eine bis hat doch nix inne Arme.“"
+    },
+    "Häppken": {
+        "word": "Häppken",
+        "description": "Kleinigkeit",
+        "example": "„Unsa Omma hat uns dat Bütterken imma in Häppken geschnitten.”"
+    },
+    "Hömma!": {
+        "word": "Hömma!",
+        "description": "Hör mal!",
+        "example": "„Hömma, getz is hier abba Schicht im Schacht.“"
+    },
+    "Höntrop": {
+        "word": "Höntrop",
+        "description": "Ortsteil von Bochum",
+        "example": "„Meine Omma wohnt seit dreißich Jahren in Bochum-Höntrop.“"
+    },
+    "Hümmeken": {
+        "word": "Hümmeken",
+        "description": "Messer; meist das Kleine zum Schälen",
+        "example": "„Nimm doch mal das Hümmeken, das geht besser.“"
+    },
+    "ipschig": {
+        "word": "ipschig",
+        "description": "klein, süß oder niedlich; häufig in Bezug auf ein Kind",
+        "example": "„So n ipschigen Wonneproppen habta da.“"
+    },
+    "jau": {
+        "word": "jau",
+        "description": "zustimmendes Allerweltswort",
+        "example": "„Jau, da haste recht.“"
+    },
+    "Jäuster": {
+        "word": "Jäuster",
+        "description": "umgangssprachlich für einen Lausbub oder einen frechen Jungen",
+        "example": "„Euer Albert is abba auch n Jaust.“"
+    },
+    "Kabüffken": {
+        "word": "Kabüffken",
+        "description": "Begriff für einen winzigen Raum,Anbau oder Schuppen",
+        "example": "„In dem Kabüffken kannse doch nich hausen.“"
+    },
+    "Kaline": {
+        "word": "Kaline",
+        "description": "Ausdruck für Mädchen; bedeutet aber auch Tochter oder Braut",
+        "example": "„Kumma, da hinten kommt ne Hammer-Kaline angetapert.“"
+    },
+    "kappores": {
+        "word": "kappores",
+        "description": "umgangssprachlich für kaputt, defekt oder auch pleite",
+        "example": "„Allet kappores.“"
+    },
+    "Kawenzmann": {
+        "word": "Kawenzmann",
+        "description": "Bezeichnung für ein großes Stück Gestein/Kohle im Bergbau; kann aber auch eine große/breite Person meinen",
+        "example": "„Da kam da son Kawenzmann umme Ecke.“"
+    },
+    "ker": {
+        "word": "ker",
+        "description": "Ausruf; Kurzform von Kerl oder Mann",
+        "example": "„Ker, getz habbich abban Kaffe auf.“"
+    },
+    "Killefitt": {
+        "word": "Killefitt",
+        "description": "Unsinn, dummes Zeug",
+        "example": "„Dat is doch reiner Killefitt!“"
+    },
+    "Klümpken": {
+        "word": "Klümpken",
+        "description": "Bonbon oder allgemein für Süßigkeiten",
+        "example": "„Ich hol mir ersma ne bunte Tüte vonne Bude, ich brauch Klümpken.“"
+    },
+    "Klüngel": {
+        "word": "Klüngel",
+        "description": "alte Sachen oder Kram; bedeutet aber auch Verwandtschaft",
+        "example": "„Den Klüngel brauchse doch nich mehr.“"
+    },
+    "Knifte": {
+        "word": "Knifte",
+        "description": "Butterbrot",
+        "example": "„Da hasse abba ne ordentliche Knifte“"
+    },
+    "Knäppchen": {
+        "word": "Knäppchen",
+        "description": "knuspriges Ende vom Brot",
+        "example": "„Bütterkes issta gern, dat Knäppchen lästa imma übba.“"
+    },
+    "knöttern": {
+        "word": "knöttern",
+        "description": "nörgeln oder meckern",
+        "example": "„Ker, getz hömma auf am knöttern.“"
+    },
+    "kodderich": {
+        "word": "kodderich",
+        "description": "umgangssprachlich für schwindlig oder unwohl",
+        "example": "„Mich is kodderich.“"
+    },
+    "Kokolores": {
+        "word": "Kokolores",
+        "description": "Unsinn oder Quatsch",
+        "example": "„Erna, mach kein Kokolores.“"
+    },
+    "Komma lecka bei mich bei!": {
+        "word": "Komma lecka bei mich bei!",
+        "description": "Komm mal zu mir rüber!",
+        "example": "„Ey Ette, komma lecka bei mich bei!“"
+    },
+    "krüsselig": {
+        "word": "krüsselig",
+        "description": "lockig oder gekräuselt (Haare)",
+        "example": "„Gumma, der Matze hat voll krüsselige Haare.“"
+    },
+    "Kumma hier!": {
+        "word": "Kumma hier!",
+        "description": "Schau mal her!",
+        "example": "„Kumma hier, der Egon ist auch ma widder da!“"
+    },
+    "Kumpel": {
+        "word": "Kumpel",
+        "description": "Bezeichnung für Bergleute; kann aber auch Freund/Bekannter heißen",
+        "example": "„Ey Kumpel, hasse ma ne Fluppe für mich?“"
+    },
+    "Kusselkopp": {
+        "word": "Kusselkopp",
+        "description": "Kusselkopf, Purzelbaum",
+        "example": "„Ich freu mich so, ich mach gleich nen Kusselkopp“"
+    },
+    "käbbeln": {
+        "word": "käbbeln",
+        "description": "streiten oder necken",
+        "example": "„Die Blagen sind sich nuua am käbbeln dranne.“"
+    },
+    "Lorenz": {
+        "word": "Lorenz",
+        "description": "die Sonne",
+        "example": "„Kerr, was knallt der Lorenz aufe Birne!“"
+    },
+    "Maloche": {
+        "word": "Maloche",
+        "description": "Arbeit",
+        "example": "„Jeden Tach geh ich auffe Maloche.“"
+    },
+    "Mimi": {
+        "word": "Mimi",
+        "description": "umgangssprachlich für Ehefrau, Mädchen oder Freundin",
+        "example": "„Kumma, dem Ömmes seine Mimi trägt heut vielleicht nen Fummel.“"
+    },
+    "Mopped": {
+        "word": "Mopped",
+        "description": "Universalwort; bedeutet soviel wie \"Dingens\"",
+        "example": "„Wat hast denn da für´n Mopped? Zeich ma.“"
+    },
+    "Mottek": {
+        "word": "Mottek",
+        "description": "Hammer des Bergmanns; Werkzeug",
+        "example": "„Gimma den Mottek her.“"
+    },
+    "Mummpitz": {
+        "word": "Mummpitz",
+        "description": "Unsinn oder Schwindel",
+        "example": "„Dat is doch völliger Mummpitz wasse da sachst.“"
+    },
+    "Mutterklötzkes": {
+        "word": "Mutterklötzkes",
+        "description": "übrig gebliebene Stücke vom Strebholz (wurde damals im Bergbau verwendet), die, ofengerecht zurechtgeschnitten, mit nach Hause genommen wurden",
+        "example": "„Dat Mutterklötzkes gehört zum Pott, wie die Pommes Schranke.“"
+    },
+    "Nuckelpinne": {
+        "word": "Nuckelpinne",
+        "description": "kleines Auto mit schwachem Motor",
+        "example": "„Die olle Nuckelpinne von Martin is gestern übern Jordan gegangen.“"
+    },
+    "nölen": {
+        "word": "nölen",
+        "description": "nörgeln oder jammern",
+        "example": "„Nöllma nich rum, sonns geht´s sofort inne Poofe.“"
+    },
+    "Ömmes": {
+        "word": "Ömmes",
+        "description": "großer Gegenstand; aber auch Freund oder Ehemann",
+        "example": "„Dat waa son Ömmes, hömma!“"
+    },
+    "pampich": {
+        "word": "pampich",
+        "description": "frech, trotzig oder wie Pampe (Zustand)",
+        "example": "„Getz werd ma nich pampig Freundchen.“"
+    },
+    "Pampuschen": {
+        "word": "Pampuschen",
+        "description": "Pantoffeln; bevorzugt in braun",
+        "example": "„Unsa Omma hat getz neue Pampuschen zum Geburtstach gekricht.“"
+    },
+    "Parkstadion": {
+        "word": "Parkstadion",
+        "description": "ehemaliges Fußballstadion des FC Schalke 04",
+        "example": "„Dat Parkstadion, da war der Fußball noch richtiges Gebolze...“"
+    },
+    "Pellmänner": {
+        "word": "Pellmänner",
+        "description": "Pellkartoffeln",
+        "example": "„Heut Mittach gibbet feinste Pellmänner mit Matjes.“"
+    },
+    "picheln": {
+        "word": "picheln",
+        "description": "(sich) betrinken",
+        "example": "„Sich einen picheln.“"
+    },
+    "Piene": {
+        "word": "Piene",
+        "description": "Schmerzen",
+        "example": "„Ker, stell dich nich so an, ne echter Mann kennt keine Piene.“"
+    },
+    "pille-palle": {
+        "word": "pille-palle",
+        "description": "einfach",
+        "example": "„Dat is doch pille-palle.“"
+    },
+    "Pimpernellen": {
+        "word": "Pimpernellen",
+        "description": "Nerven/Geduld verlieren",
+        "example": "„Ich krich die Pimpernellen!“"
+    },
+    "Pinneken": {
+        "word": "Pinneken",
+        "description": "kleines Schnapsglas, kurzes Holzstück",
+        "example": "„Gimma nen Pinneken.“"
+    },
+    "plästern": {
+        "word": "plästern",
+        "description": "regnen",
+        "example": "„Ker, heut Nachmittach war et ganz schön am plästern dranne.“"
+    },
+    "Pläuschken": {
+        "word": "Pläuschken",
+        "description": "Gespräch an einem gemütlichen Ort",
+        "example": "„Unsa Omma hält ma wieda nen Pläuschken mit Cymczyks Erna.“"
+    },
+    "Pommes Schranke": {
+        "word": "Pommes Schranke",
+        "description": "Eine Pommes mit Mayo und Ketchup",
+        "example": "„Et geht ja nix über ne schöne Pommes Schranke.“"
+    },
+    "poofen": {
+        "word": "poofen",
+        "description": "tief schlafen ",
+        "example": "Ich habe die Nacht richtig gepooft."
+    },
+    "Pott": {
+        "word": "Pott",
+        "description": "Spitzname des Ruhrgebiets, Kurzform von Ruhrpott",
+        "example": "„Meine Heimat is der Pott und dat wird er imma sein!“"
+    },
+    "Puckimänneken": {
+        "word": "Puckimänneken",
+        "description": "kleine Flasche Schnaps",
+        "example": "„Hatta wieda n Puckimänneken auf, der Schluckspecht.“"
+    },
+    "Quanten": {
+        "word": "Quanten",
+        "description": "Füße (auch Mauken genannt)",
+        "example": "„Hömma, getz pack de Quanten vom Tisch.“"
+    },
+    "rumjückeln": {
+        "word": "rumjückeln",
+        "description": "umherziehen",
+        "example": "„Ker, ihr seid auch nur am rumjückeln.“"
+    },
+    "rumklamüsern": {
+        "word": "rumklamüsern",
+        "description": "basteln, arbeiten ohne festes Ziel, entwirren",
+        "example": "„Dat müssen wa getz erstma aussenanda klamüsern.“"
+    },
+    "rumschawenzeln": {
+        "word": "rumschawenzeln",
+        "description": "umgarnen, umherschleichen",
+        "example": "„Der Günnah scharwenzelt schonne ganze Zeit umme Bine rum.“"
+    },
+    "Röllekes": {
+        "word": "Röllekes",
+        "description": "Lockenwickler",
+        "example": "„Unsa Omma geht auch mit Röllekes in Konsum.“"
+    },
+    "Schaluppi": {
+        "word": "Schaluppi",
+        "description": "Schlitzohr, listiger Mensch",
+        "example": "„Du biss mich vielleicht nen Schaluppi.“"
+    },
+    "Schicht im Schacht": {
+        "word": "Schicht im Schacht",
+        "description": "Ausdruck das etwas zuende ist; \"Aus und vorbei\"",
+        "example": "„Ker, jetzt is abba mal Schicht im Schacht!“"
+    },
+    "Schisselameng": {
+        "word": "Schisselameng",
+        "description": "wertloses/unnützes Zeug",
+        "example": "„Der ganze Kella is voll mit deinem Schisselameng.“"
+    },
+    "Schlote": {
+        "word": "Schlote",
+        "description": "Kohleschornstein im Bergbau",
+        "example": "„Kohle unter unsern Füßen, Schloten wachsen hoch hinaus, unsere Heimat im Revier...“"
+    },
+    "schluren": {
+        "word": "schluren",
+        "description": "nachlässig sein/arbeiten",
+        "example": "„In den letzten Tagen schlurste abba ganz schön auffe Maloche.“"
+    },
+    "Schlübber": {
+        "word": "Schlübber",
+        "description": "Schlüpfer",
+        "example": "„Der Rudi is son Schwein, dem sein Schlübber is nicht ma sauber.“"
+    },
+    "Schmachtlappen": {
+        "word": "Schmachtlappen",
+        "description": "schmachtender Liebhaber",
+        "example": "„Wat ist dat denn für n' oller Schmachttlappen.“"
+    },
+    "Schmu": {
+        "word": "Schmu",
+        "description": "Unsinn/Betrug",
+        "example": "„Mach kein Schmu.“"
+    },
+    "Schnäbbelliese": {
+        "word": "Schnäbbelliese",
+        "description": "Frau mit losem Mundwerk; geschwätzig",
+        "example": "„Hömma, du bis ne richtige Schnäbbelliese.“"
+    },
+    "Sechs-Seen-Platte": {
+        "word": "Sechs-Seen-Platte",
+        "description": "Erholungsgebiet in Duisburg, bestehend aus sechs Seen",
+        "example": "„Die Sechs-Seen-Platte in Duisburch is einer der schönsten Plätze im Pott!“"
+    },
+    "Sperenzkes": {
+        "word": "Sperenzkes",
+        "description": "Dumm-/ Albernheiten, Schwierigkeiten",
+        "example": "„Jetz mach mir keine Sperenzkes!“"
+    },
+    "Taubenvatta": {
+        "word": "Taubenvatta",
+        "description": "Denkmal für den Bergbau in Castrop-Rauxel",
+        "example": "„Der Taubenvatta is ne Erinnerung an Malocher wie mein Oppa.“"
+    },
+    "Trallafitti": {
+        "word": "Trallafitti",
+        "description": "Feier, Trubel, Vergnügen, Unterhaltung",
+        "example": "„Waasse wieda auf Trallafitii?“"
+    },
+    "unter Tage": {
+        "word": "unter Tage",
+        "description": "Bergmannssprache: unterhalb der Erdoberfläche (im Bergwerk)",
+        "example": "„Wir fahrn inner Stunde unter Tage.“"
+    },
+    "Unterbuchse": {
+        "word": "Unterbuchse",
+        "description": "Unterhose",
+        "example": "„Der Heini wechselt die Frauen öfter als seine Unterbuchse.“"
+    },
+    "usselich": {
+        "word": "usselich",
+        "description": "nasskalt/schmutzig/ungemütlich",
+        "example": "„So n' usseliges Wetta.“"
+    },
+    "vaschwiemelt": {
+        "word": "vaschwiemelt",
+        "description": "verquollen aussehen (nach einer langen Partynacht)",
+        "example": "„Du siehst abba mal vaschwiemelt aus.“"
+    },
+    "verbaseln": {
+        "word": "verbaseln",
+        "description": "etw. versäumen, vergessen, verlieren",
+        "example": "„Verdorri, ich hab den Gebursttach meiner Ollen verbaselt!“"
+    },
+    "verdorri": {
+        "word": "verdorri",
+        "description": "ärgerlicher Ausruf “Verdammt”",
+        "example": "„Verdorri nomma!“"
+    },
+    "Wem hörsse?": {
+        "word": "Wem hörsse?",
+        "description": "Zu wem gehörst du?",
+        "example": "„Haste die Olle da gesehn, zum wem hörtse?“"
+    },
+    "Wonnich?": {
+        "word": "Wonnich?",
+        "description": "Wohl nicht?",
+        "example": "„Dat hasse nich gedacht, wonnich?“"
+    },
+    "Zachel": {
+        "word": "Zachel",
+        "description": "Messer",
+        "example": "„Ker lech dat Zachel aussa Hand.“"
+    },
+    "Zeche Zollverein": {
+        "word": "Zeche Zollverein",
+        "description": "ehemaliges Steinkohlebergwerk in Essen",
+        "example": "„Die Zeche Zollverein, wird auch Eifelturm des Ruhrgebiets gennant.“"
+    }
+}
